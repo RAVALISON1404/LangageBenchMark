@@ -1,0 +1,10 @@
+frameworks,counts
+javalin,744
+jooby,1108
+kooby: jooby+kotlin,409
+micronaut,2171
+nancy,412
+quarkus,1339
+ratpack,763
+spring,659
+vertx-web,611
